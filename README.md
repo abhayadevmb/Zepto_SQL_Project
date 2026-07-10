@@ -121,5 +121,4 @@ The SQL workflow produces a set of concrete, decision-ready outputs. The example
 4. Import [data/zepto_v2.csv](data/zepto_v2.csv) into the zepto table using the column names from the schema.
 5. Run the queries in [sql_queries/Exploratory_Analysis.sql](sql_queries/Exploratory_Analysis.sql) to inspect the data, apply cleaning steps, and generate the business metrics.
 
-## Notes
-This repository is intentionally lightweight and focused on a single source of truth: the Zepto product catalog. It is best used as a starting point for deeper analytics, including order history, customer behavior, and demand forecasting.
+
