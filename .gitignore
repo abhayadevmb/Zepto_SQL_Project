@@ -1,0 +1,9 @@
+# Raw data files
+*.csv
+
+# pgAdmin backup files
+*.bak
+*.sql.bak
+
+# macOS metadata
+.DS_Store
